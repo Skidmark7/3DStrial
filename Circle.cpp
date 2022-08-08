@@ -22,3 +22,7 @@ void Circle::print() const {
 	Point::print();
 	cout << "Radius is "<<radius << endl;
 }
+
+void foo() {
+	cout << "For git\n";
+}
